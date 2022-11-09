@@ -1,1 +1,1 @@
-# Exploratory Data Analysis du Covid-19 avec Python
+# Exploratory Data Analysis de la Covid-19 avec Python
